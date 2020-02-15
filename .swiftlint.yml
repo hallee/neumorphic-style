@@ -10,4 +10,3 @@ excluded:
   - Tests
 cyclomatic_complexity:
   ignores_case_statements: true
-indentation: tabs

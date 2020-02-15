@@ -1,13 +1,13 @@
-// swift-tools-version:5.0
+// swift-tools-version:5.1
 import PackageDescription
 
 let package = Package(
-	name: "SwiftPackage",
-	products: [
-		.library(name: "SwiftPackage", targets: ["SwiftPackage"])
-	],
-	targets: [
-		.target(name: "SwiftPackage"),
-		.testTarget(name: "Tests", dependencies: ["SwiftPackage"])
-	]
+    name: "NeumorphicStyle",
+    platforms: [.iOS(.v13), .tvOS(.v13), .macOS(.v10_15)],
+    products: [
+        .library(name: "NeumorphicStyle", targets: ["NeumorphicStyle"])
+    ],
+    targets: [
+        .target(name: "NeumorphicStyle")
+    ]
 )
