@@ -1,0 +1,13 @@
+disabled_rules:
+  - identifier_name
+opt_in_rules:
+  - indentation_width
+line_length:
+  ignores_urls: true
+  ignores_comments: true
+  ignores_interpolated_strings: true
+excluded:
+  - Tests
+cyclomatic_complexity:
+  ignores_case_statements: true
+indentation: tabs
