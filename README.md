@@ -4,6 +4,8 @@ This is a SwiftUI `ButtonStyle` for styling buttons in a [neumorphic](https://dr
 
 I wrote a [blog post](https://blog.hal.codes/swiftui-neumorphism-button) about it.
 
+You can download this as an [interactive Swift Playground](https://s3.amazonaws.com/f.hal.codes/SwiftUI+Neumorphism.playgroundbook.zip).
+
 <p align="center">
 	<img src="https://s3.amazonaws.com/f.hal.codes/press.gif" width="400px" title="SwiftUI Neumorphic Button Style" />
 </p align="center">
